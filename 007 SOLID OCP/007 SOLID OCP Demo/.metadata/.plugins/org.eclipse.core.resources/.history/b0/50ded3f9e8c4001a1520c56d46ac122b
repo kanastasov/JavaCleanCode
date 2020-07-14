@@ -1,0 +1,8 @@
+package com.kirilanastasov.ocp.demoShapes;
+
+public class AreaCalculator {
+	public double calculateRectangleArea(Rectangle rectangle) {
+		return rectangle.getLength() * rectangle.getWidth();
+	}
+
+}

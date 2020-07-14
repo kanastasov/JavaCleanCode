@@ -1,0 +1,15 @@
+package com.kirilanastasov.srp.demo2;
+
+import java.net.URL;
+import java.nio.channels.Channel;
+import java.nio.channels.ReadableByteChannel;
+
+public class FileManager {
+	
+	public void downloadFile(String location) {
+		URL website = new URL("http://google.com/");
+		ReadableByteChannel readableByteChannel = new ReadableByteChannel(website.openStream());
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.kirilanastasov.lsp.birds;
+
+public abstract class Bird {
+	public asbract void fly();
+}

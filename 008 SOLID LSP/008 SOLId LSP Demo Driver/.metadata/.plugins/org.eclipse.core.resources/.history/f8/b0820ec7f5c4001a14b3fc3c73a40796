@@ -1,0 +1,6 @@
+package com.kirilanastasov.lsp.birds;
+
+public class Chicken extends Bird {
+
+
+}

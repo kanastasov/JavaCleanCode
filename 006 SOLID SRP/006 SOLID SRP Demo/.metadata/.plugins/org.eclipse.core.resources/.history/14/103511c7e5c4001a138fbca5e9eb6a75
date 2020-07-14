@@ -1,0 +1,9 @@
+package com.kirilanastasov.srp.demo2;
+
+public class FileManager {
+	
+	public void downloadFile(String location) {
+		URL website = new URL("http://google.com/");
+	}
+
+}

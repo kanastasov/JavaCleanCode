@@ -1,0 +1,17 @@
+package com.kirilanastasov.isp.mediaPlayer;
+
+public class WinampMediaPlayer implements MediaPlayer {
+
+	@Override
+	public void playAudio() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void playVideo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

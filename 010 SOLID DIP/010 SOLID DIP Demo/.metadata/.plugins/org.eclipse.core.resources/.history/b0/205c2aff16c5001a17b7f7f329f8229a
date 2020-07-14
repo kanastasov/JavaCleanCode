@@ -1,0 +1,8 @@
+package com.kirilanastasov.dip.developer;
+
+public class BackEndDeveloper {
+
+	public void writeJava() {
+		System.out.println("Java");
+	}
+}

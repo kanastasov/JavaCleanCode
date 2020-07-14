@@ -1,0 +1,25 @@
+package com.kirilanastasov.srp.demo1;
+
+import java.math.BigDecimal;
+import java.util.Date;
+
+public class Driver {
+	private String driverId;
+	private String driverName;
+	private String address;
+	private Date dateOfJoining;
+	
+	private Owner owner;
+	
+	
+	private BigDecimal companyTaxes;
+
+	public String buyNewBuses() {
+		return owner.newBusses + "logic about new buses ";
+	}
+
+	public BigDecimal calculateTaxesForCompany() {
+		return companyTaxes;
+	}
+
+}

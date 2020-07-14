@@ -1,0 +1,13 @@
+package com.kirilanastasov.dip.developer;
+
+public class FrontEndDeveloper implements Developer {
+
+	public void writeAngular() {
+		System.out.println("Angular");
+	}
+
+	@Override
+	public void develop() {
+		writeAngular();
+	}
+}

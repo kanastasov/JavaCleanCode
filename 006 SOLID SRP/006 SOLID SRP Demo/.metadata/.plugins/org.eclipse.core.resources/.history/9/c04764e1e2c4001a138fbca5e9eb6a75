@@ -1,0 +1,10 @@
+package com.kirilanastasov.srp.demo1;
+
+import java.math.BigDecimal;
+
+public class DriverData {
+	public BigDecimal companyTaxes;
+
+	public DriverData() {
+	}
+}

@@ -1,0 +1,11 @@
+package com.kirilanastasov.ocp.caclulator;
+
+public class Addition {
+	private double firstOperation;
+	private double secondOperation;
+	private double result = 0.0;
+	
+	
+	
+
+}

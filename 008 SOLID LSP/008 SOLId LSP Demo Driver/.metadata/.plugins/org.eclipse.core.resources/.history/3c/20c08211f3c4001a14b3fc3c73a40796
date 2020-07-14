@@ -1,0 +1,12 @@
+package com.kirilanastasov.lsp.model;
+
+public abstract class Driver {
+
+	private long driverId;
+	private String driverName;
+	
+	
+
+	
+	
+}

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\kanastasov\Desktop\Java Clean code Course\009 SOLID ISP\009 SOLID ISP Demo Devices\.metadata\.plugins\org.eclipse.jdt.core
+3963916925.index
+1312191014.index

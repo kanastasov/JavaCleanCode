@@ -1,0 +1,26 @@
+package com.kirilanastasov.lsp.model;
+
+public class BusDriver implements Driver {
+
+	private String busDriverName;
+	
+	
+	@Override
+	public void drive() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void informPassengers() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void followTimeSchedule() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

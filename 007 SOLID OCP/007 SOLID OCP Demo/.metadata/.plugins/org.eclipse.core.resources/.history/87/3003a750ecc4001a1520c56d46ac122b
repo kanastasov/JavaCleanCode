@@ -1,0 +1,12 @@
+package com.kirilanastasov.ocp.caclulator;
+
+public class OurCalculator implements ICalculator {
+
+	
+	
+	@Override
+	public void calculate(IOperation operation) {
+		
+	}
+
+}

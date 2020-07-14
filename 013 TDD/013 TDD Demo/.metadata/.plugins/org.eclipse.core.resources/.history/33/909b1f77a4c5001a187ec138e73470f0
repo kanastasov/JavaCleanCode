@@ -1,0 +1,14 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class MyListTest {
+
+	@Test
+	void test() {
+		
+		Object list;
+		assertTrue(list.isEmpty());
+	}
+
+}

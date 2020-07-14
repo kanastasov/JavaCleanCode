@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.kirilanastasov.dip.calculatorDemo.CalculatorOperation"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.dip.calculatorDemo.AddCalculationOperator"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.dip.calculatorDemo.SubtractCalculationOperation"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.dip.calculatorDemo.MultiplyCalculationOperation"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.dip.calculatorDemo.DivideCalculationOperation"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.dip.developer.BackEndDeveloper"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.dip.developer.FrontEndDeveloper"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.dip.developer.Developer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

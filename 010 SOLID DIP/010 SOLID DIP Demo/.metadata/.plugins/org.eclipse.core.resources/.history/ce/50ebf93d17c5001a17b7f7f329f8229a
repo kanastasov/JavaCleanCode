@@ -1,0 +1,16 @@
+package com.kirilanastasov.dip.developer;
+
+import java.util.List;
+
+public class TestDeveloper {
+
+	private List<Developer> developers;
+	private BackEndDeveloper javaDev = new BackEndDeveloper();
+	
+	private FrontEndDeveloper angular = new FrontEndDeveloper();
+	
+	public void implement() {
+		javaDev.writeJava();
+		angular.writeAngular();
+	}
+}

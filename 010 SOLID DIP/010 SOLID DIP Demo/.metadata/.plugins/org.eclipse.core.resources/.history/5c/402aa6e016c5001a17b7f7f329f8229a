@@ -1,0 +1,8 @@
+package com.kirilanastasov.dip.developer;
+
+public class FrontEndDeveloper {
+
+	public void Angular() {
+		System.out.println("Angular");
+	}
+}

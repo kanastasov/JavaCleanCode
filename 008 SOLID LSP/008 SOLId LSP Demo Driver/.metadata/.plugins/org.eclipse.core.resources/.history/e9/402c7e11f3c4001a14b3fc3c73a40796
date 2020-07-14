@@ -1,0 +1,23 @@
+package com.kirilanastasov.lsp.model;
+
+public abstract class Driver {
+
+	private long driverId;
+	private String driverName;
+	
+	
+	
+	public void drive() {
+		System.out.println("Driving");
+	}
+	
+	public void informPassengers() {
+		
+	}
+	
+	public void followTimeSchedule() {
+		
+	}
+	
+	
+}

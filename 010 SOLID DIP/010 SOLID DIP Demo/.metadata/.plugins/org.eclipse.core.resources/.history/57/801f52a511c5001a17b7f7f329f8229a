@@ -1,0 +1,12 @@
+package com.kirilanastasov.dip.calculatorDemo;
+
+public class Calculator {
+
+	public double add(double firstValue, double secondValue) {
+		return firstValue + secondValue;
+	}
+
+	public double subtract(double firstvalue, double secondValue) {
+		return firstvalue - secondValue;
+	}
+}

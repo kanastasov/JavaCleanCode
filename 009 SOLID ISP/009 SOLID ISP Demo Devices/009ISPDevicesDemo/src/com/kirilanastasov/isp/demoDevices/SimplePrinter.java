@@ -1,0 +1,11 @@
+package com.kirilanastasov.isp.demoDevices;
+
+public class SimplePrinter implements IPrinter {
+
+	@Override
+	public void print() {
+		// printing
+
+	}
+
+}

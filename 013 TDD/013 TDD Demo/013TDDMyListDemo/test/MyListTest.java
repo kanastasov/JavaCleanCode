@@ -1,0 +1,54 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.List;
+
+import org.junit.jupiter.api.Test;
+
+class MyListTest {
+
+	private MyList<Object> list;
+
+	@Test
+	void testEmptyListWhenItIsNotEmpty() {
+		list = new MyList<>();
+		list.add(null);
+		assertFalse(list.isEmpty());
+	}
+
+	@Test
+	public void testSizeList() {
+		list = new MyList<>();
+		list.add(null);
+		assertEquals(1, list.size());
+	}
+
+	@Test
+	public void testGetMethod() {
+		list = new MyList<>();
+		list.add("TDD");
+		Object object = list.get(0);
+		assertEquals("TDD", object);
+	}
+
+	@Test
+	public void testAddWhenEmptyList() {
+		list = new MyList<>();
+		boolean flag = list.add(null);
+		assertTrue(flag);
+	}
+	
+	@Test
+	public void testMyListWithElements() {
+		list = new MyList<>();
+		list.add("TDD");
+		list.add("Clean code");
+		Object firstObject = list.get(0);
+		Object secondObject = list.get(1);
+		
+		assertEquals("TDD", firstObject);
+		assertEquals("Clean code", secondObject);
+		
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.kirilanastasov.ocp.caclulator;
+
+public class TestCalculator {
+
+	public static void main(String[] args) {
+		Addition addition = new Addition(2,5);
+		System.out.println(addition.toString());;
+		
+		
+		Substraction substraction = new Substraction(5, 2);
+	}
+
+}

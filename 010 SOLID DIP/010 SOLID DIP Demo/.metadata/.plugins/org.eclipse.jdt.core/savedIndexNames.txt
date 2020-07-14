@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\kanastasov\Desktop\Java Clean code Course\010 SOLID DIP\010 SOLID DIP Demo\.metadata\.plugins\org.eclipse.jdt.core
+3353616670.index
+60786855.index

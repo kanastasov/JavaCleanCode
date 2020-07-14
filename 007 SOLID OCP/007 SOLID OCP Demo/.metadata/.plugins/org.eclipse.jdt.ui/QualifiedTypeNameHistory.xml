@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.kirilanastasov.ocp.demoShapes.Rectangle"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.ocp.demoShapes.Circle"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.ocp.caclulator.IOperation"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.ocp.caclulator.ICalculator"/>
+    <fullyQualifiedTypeName name="java.security.InvalidParameterException"/>
+    <fullyQualifiedTypeName name="com.kirilanastasov.ocp.caclulator.Substraction"/>
+</qualifiedTypeNameHistroy>

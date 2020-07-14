@@ -1,0 +1,21 @@
+package com.kirilanastasov.dip.calculatorDemo;
+
+public class TestCalculator {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		addCalculator();
+	}
+
+	
+	public static void addCalculator() {
+		Calculator calculator = new Calculator(new AddCalculationOperator());
+		double result = calculator.solve(1, 2);
+	}
+	
+	public void substractCalculator() {
+		Calculator calculator = new Calculator(new SubtractCalculationOperation());
+	}
+	
+
+}

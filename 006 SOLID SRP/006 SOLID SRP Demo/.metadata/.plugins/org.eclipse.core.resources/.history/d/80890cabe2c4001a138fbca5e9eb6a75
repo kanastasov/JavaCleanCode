@@ -1,0 +1,9 @@
+package com.kirilanastasov.srp.demo1;
+
+public class Owner {
+	private String ownerId;
+	public String newBusses;
+
+	public Owner() {
+	}
+}

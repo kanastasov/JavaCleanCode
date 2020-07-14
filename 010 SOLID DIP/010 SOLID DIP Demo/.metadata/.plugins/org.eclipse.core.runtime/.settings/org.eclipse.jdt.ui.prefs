@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.kirilanastasov.dip.calculatorDemo.CalculatorOperation"><rhs name\="com.kirilanastasov.dip.calculatorDemo.AddCalculationOperator"/><rhs name\="com.kirilanastasov.dip.calculatorDemo.SubtractCalculationOperation"/><rhs name\="com.kirilanastasov.dip.calculatorDemo.MultiplyCalculationOperation"/><rhs name\="com.kirilanastasov.dip.calculatorDemo.DivideCalculationOperation"/></lhs><lhs name\="com.kirilanastasov.dip.developer.BackEndDeveloper"><rhs name\="com.kirilanastasov.dip.developer.BackEndDeveloper"/></lhs><lhs name\="com.kirilanastasov.dip.developer.FrontEndDeveloper"><rhs name\="com.kirilanastasov.dip.developer.FrontEndDeveloper"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=18
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

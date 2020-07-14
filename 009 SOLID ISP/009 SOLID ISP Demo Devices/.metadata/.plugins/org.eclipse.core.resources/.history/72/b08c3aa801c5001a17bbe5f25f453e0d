@@ -1,0 +1,25 @@
+package com.kirilanastasov.isp.demoDevices;
+
+public class SimplePrinter implements IDevice {
+
+	@Override
+	public void print() {
+		// printing
+		
+	}
+
+	@Override
+	public void fax() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void scan() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+}

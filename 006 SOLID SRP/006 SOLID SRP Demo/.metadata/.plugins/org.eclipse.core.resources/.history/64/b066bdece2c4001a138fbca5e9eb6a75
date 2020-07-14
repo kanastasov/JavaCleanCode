@@ -1,0 +1,14 @@
+package com.kirilanastasov.srp.demo1;
+
+import java.math.BigDecimal;
+
+public class DriverTaxes {
+	public BigDecimal companyTaxes;
+
+	public DriverTaxes() {
+	}
+	
+	public BigDecimal calculateTaxesForCompany() {
+		return taxes.companyTaxes;
+	}
+}

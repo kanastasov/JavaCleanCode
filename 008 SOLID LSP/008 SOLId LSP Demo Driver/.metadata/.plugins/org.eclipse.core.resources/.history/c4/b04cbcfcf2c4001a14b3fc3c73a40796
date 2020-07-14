@@ -1,0 +1,13 @@
+package com.kirilanastasov.lsp.model;
+
+public class Driver {
+
+	private long driverId;
+	private String driverName;
+	
+	
+	
+	public void drive() {
+		System.out.println("Driving");
+	}
+}

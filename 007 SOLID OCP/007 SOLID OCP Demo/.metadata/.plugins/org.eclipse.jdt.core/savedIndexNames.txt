@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\kanastasov\Desktop\Java Clean code Course\007 SOLID OCP\007 SOLID OCP Demo\.metadata\.plugins\org.eclipse.jdt.core
+3132306039.index
+483725751.index

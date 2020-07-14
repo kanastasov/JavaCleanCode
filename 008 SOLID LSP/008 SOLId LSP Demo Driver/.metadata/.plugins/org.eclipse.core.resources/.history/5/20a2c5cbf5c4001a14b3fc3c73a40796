@@ -1,0 +1,13 @@
+package com.kirilanastasov.lsp.birds;
+
+public class Duck extends FlyingBird{
+
+	
+	
+	@Override
+	public void fly() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

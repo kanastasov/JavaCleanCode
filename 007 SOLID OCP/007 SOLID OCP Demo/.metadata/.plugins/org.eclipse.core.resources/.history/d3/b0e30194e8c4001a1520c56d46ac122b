@@ -1,0 +1,7 @@
+package com.kirilanastasov.ocp.demoShapes;
+
+public class Rectangle {
+
+	private double length;
+	private double width;
+}

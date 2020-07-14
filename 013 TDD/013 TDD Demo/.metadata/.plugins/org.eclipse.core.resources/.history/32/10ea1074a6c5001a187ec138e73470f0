@@ -1,0 +1,25 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.List;
+
+import org.junit.jupiter.api.Test;
+
+class MyListTest {
+
+	private MyList<Object> list;
+
+	@Test
+	void testEmptyListWhenItIsNotEmpty() {
+		list = new MyList<>();
+		list.add(null);
+		assertFalse(list.isEmpty());
+	}
+	
+	@Test
+	public void testSizeList() {
+		list = new MyList<>();
+		list.add(null);
+		assertEquals(1,list.size());
+	}
+
+}

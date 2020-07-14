@@ -1,0 +1,24 @@
+package com.kirilanastasov.ocp.caclulator;
+
+import java.security.InvalidParameterException;
+
+public class OurCalculator implements ICalculator {
+
+	@Override
+	public void calculate(IOperation operation) {
+		
+		if(operation == null) {
+			throw new InvalidParameterException("operation can not be null");
+		}
+		
+		if(operation instanceof Addition) {
+			Addition addition = (Addition) operation;
+			addition.setResult(addition.getFirstOperation() + addition.getSecondOperation());
+		} else if(operation instanceof Substraction) {
+			Substraction substraction = (Substraction) operation;
+			substraction.setResult(substraction.getFirstOperation() - substraction.getSecondOperation());
+		}
+		
+	}
+
+}

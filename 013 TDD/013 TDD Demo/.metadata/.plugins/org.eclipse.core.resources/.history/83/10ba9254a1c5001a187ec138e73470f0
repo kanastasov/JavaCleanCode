@@ -1,0 +1,10 @@
+
+public class Employer {
+
+	private String firstName = "John";
+	
+	public String gerFirstName() {
+		return firstName;
+	}
+
+}

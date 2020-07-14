@@ -1,0 +1,10 @@
+package com.kirilanastasov.dip.calculatorDemo;
+
+public class TestCalculator {
+	
+	public void addCalculator() {
+		Calculator calculator = new Calculator(new AddCalculationOperator());
+		double result = calculator.solve(1, 2)
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.kirilanastasov.ocp.caclulator;
+
+public interface ICalculator {
+
+}

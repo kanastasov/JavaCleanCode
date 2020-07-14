@@ -1,0 +1,5 @@
+package com.kirilanastasov.isp.mediaPlayer;
+
+public class WinampMediaPlayer {
+
+}

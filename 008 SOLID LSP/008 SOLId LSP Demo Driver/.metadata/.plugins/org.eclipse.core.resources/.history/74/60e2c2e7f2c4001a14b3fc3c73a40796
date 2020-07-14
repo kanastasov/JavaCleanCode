@@ -1,0 +1,5 @@
+package com.kirilanastasov.lsp.model;
+
+public class Driver {
+
+}

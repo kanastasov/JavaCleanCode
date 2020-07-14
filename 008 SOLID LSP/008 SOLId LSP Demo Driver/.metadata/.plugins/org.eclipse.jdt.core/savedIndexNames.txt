@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\kanastasov\Desktop\Java Clean code Course\008 SOLID LSP\008 SOLId LSP Demo Driver\.metadata\.plugins\org.eclipse.jdt.core
+78919860.index
+3998813017.index
